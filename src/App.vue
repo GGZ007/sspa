@@ -22,7 +22,6 @@
 			<li><router-link v-bind:to="'/'">图集1Home</router-link></li>
 			<li><router-link v-bind:to="'/pick'">图集2About</router-link></li>
 			<li><router-link v-bind:to="'/about'">登录</router-link></li>
-			
 		</ul>			
 	    </div>
      </div>
